@@ -15,3 +15,5 @@
 **Certificate Digital Badge**
 - Certificate Digital Badge Validate at:
   - [https://www.certmetrics.com/amazon/public/badge.aspx?i=8&t=c&d=2019-08-09&ci=AWS00947084](https://www.certmetrics.com/amazon/public/badge.aspx?i=8&t=c&d=2019-08-09&ci=AWS00947084)
+
+![](https://raw.githubusercontent.com/qi-qi/aws-certified-big-data-specialty/master/aws-certified-big-data-specialty-digital-badge.png)
